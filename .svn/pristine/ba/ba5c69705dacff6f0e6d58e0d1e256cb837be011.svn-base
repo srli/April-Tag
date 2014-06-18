@@ -1,9 +1,4 @@
-Based from Ed Olson's work.
-Code from http://people.csail.mit.edu/kaess/apriltags/
-
-
 AprilTags library
-======
 
 Detect April tags (2D bar codes) in images; reports unique ID of each
 detection, and optionally its position and orientation relative to a
